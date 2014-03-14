@@ -60,11 +60,11 @@ Text attributes *italic*,
 A [link](http://example.com).
 
 Shopping list:
-
+`
   * apples
   * oranges
   * pears
-
+`
 Numbered list:
 
   1. apples

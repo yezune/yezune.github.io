@@ -11,6 +11,14 @@
 * 파란
 * 녹색
 
+*   sksksk
+*   skskss
+*   sksksk
+*   
+
+    > skdfls
+    > sldkflskdflksdf
+
 
 1. 첫쨰
 2. 둘쨰
@@ -19,6 +27,14 @@
 1. 으뜸
 2. 짱
 
++,-,1,2,3
+
++ plus +
+- minus -
+
+  > 강조가 되나
+  > 
+  > 되야함
 
 * * * 
 

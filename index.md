@@ -18,10 +18,11 @@ layout: page
 ### 놀아볼 거리
 
 
-[13가지 가상화폐](http://bitcoinexaminer.org/the-13-most-promising-cryptocurrencies/)
-[비트코인 논문](https://bitcoin.org/bitcoin.pdf)
-
 ### 기반기술
+
+  [13가지 가상화폐](http://bitcoinexaminer.org/the-13-most-promising-cryptocurrencies/)
+
+  [비트코인 논문](https://bitcoin.org/bitcoin.pdf)
 
   * p2p network
   * cryptography
